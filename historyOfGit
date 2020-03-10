@@ -1,0 +1,16 @@
+History of Git
+
+Git has its roots in the development environment for the Linux kernel. 
+
+In the early 2000s, the team working on the kernel began using a proprietary distributed source control system called BitKeeper (BK). The team was allowed to use this system for free. 
+Over time, differences of opinion developed around the use of BK to the point that the owner of that system revoked free use of the product.
+At that time, 2005, Linus Torvalds, the  creator of Linux, set out to create a new system that maintained the distributed ideal, 
+and incorporated additional concepts he had been working with. 
+
+He wanted it to provide the fast performance that a project on the scope of the Linux kernel would need. 
+This was the motivation and idea that lay behind the creation of Git came into being. 
+Development began in early April of 2005, and an initial release was ready by July. 
+Originally, there was an idea of purposing Git as a toolkit that could have other systems implemented on top of it. 
+However, over time, it has been made into a full-fledged SCM in its own right. 
+If you’re wondering about the name, there are multiple definitions for the word Git, but all of them imply a negative connotation about a person. 
+Git was given its name by its creator. Linus jokingly stated that he named all his projects after himself.
